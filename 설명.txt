@@ -1,0 +1,5 @@
+payroll 시스템
+
+ADTbag, interface 등을 사용함.
+실행화면 등을 캡쳐하고 UML 만들어서 업로드 할 것.
+(작성 10/15)
